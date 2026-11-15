@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5fa9abef-a9cc-40ff-b5f4-17c3c2eb3d90/deploy-status)](https://app.netlify.com/projects/recetario-alejandro/deploys)
